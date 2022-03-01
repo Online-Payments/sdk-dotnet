@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFrameworks>net45;netcoreapp2.1;netcoreapp3.1</TargetFrameworks>
     <RootNamespace>OnlinePayments.Sdk</RootNamespace>
-    <AssemblyVersion>3.0.0</AssemblyVersion>
-    <Version>3.0.0</Version>
+    <AssemblyVersion>3.1.0</AssemblyVersion>
+    <Version>3.1.0</Version>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Company>Online Payments</Company>
     <Product>Online Payments .NET SDK unit tests</Product>
@@ -12,11 +12,11 @@
     <PackageTags>Online Payments SDK</PackageTags>
     <Copyright>Copyright (c) 2020 Ingenico e-Commerce Solutions B.V.</Copyright>
     <Authors>Online Payments</Authors>
-    <PackageProjectUrl>https://github.com/online-payments/sdk-dotnet</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Online-Payments/sdk-dotnet</PackageProjectUrl>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <PackageIcon>packageIcon.png</PackageIcon>
-    <PackageIconUrl>https://raw.githubusercontent.com/online-payments/sdk-dotnet/master/packageIcon.png</PackageIconUrl>
-    <RepositoryUrl>https://github.com/online-payments/sdk-dotnet</RepositoryUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/Online-Payments/sdk-dotnet/master/packageIcon.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/Online-Payments/sdk-dotnet</RepositoryUrl>
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
