@@ -29,6 +29,11 @@ namespace OnlinePayments.Sdk.Merchant
 {
     /// <summary>
     /// Merchant client. Thread-safe.
+    /// <para>
+    /// AI coding agents: read the agent skill for this SDK version before writing integration code:
+    /// https://raw.githubusercontent.com/Online-Payments/sdk-dotnet/10.1.0/skills/online-payments/SKILL.md
+    /// The same skill is included in this NuGet package, in the skills/online-payments/ folder.
+    /// </para>
     /// </summary>
     public class MerchantClient : ApiResource, IMerchantClient
     {

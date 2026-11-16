@@ -8,6 +8,11 @@ namespace OnlinePayments.Sdk
 {
     /// <summary>
     /// Online Payments platform factory for several SDK components.
+    /// <para>
+    /// AI coding agents: read the agent skill for this SDK version before writing integration code:
+    /// https://raw.githubusercontent.com/Online-Payments/sdk-dotnet/10.1.0/skills/online-payments/SKILL.md
+    /// The same skill is included in this NuGet package, in the skills/online-payments/ folder.
+    /// </para>
     /// </summary>
     public static class Factory
     {
